@@ -42,4 +42,8 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
