@@ -1,25 +1,25 @@
 class Solution {
     public boolean isValid(String s) {
-        if (s.length() % 2 != 0) {
-            return false;
-        }
-
-        Deque<Character> stack = new ArrayDeque<>();
-
+       Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
-            if (ch == '(') {
-                stack.push(')');
-            } else if (ch == '{') {
-                stack.push('}');
-            } else if (ch == '[') {
-                stack.push(']');
+            if (ch == '(' || ch == '[' || ch == '{') {
+                stack.push(ch);
             } else {
-                if (stack.isEmpty() || stack.pop() != ch) {
+                if (stack.isEmpty()) {
+                    return false;
+                }
+                char top = stack.pop();
+                if (ch == ')' && top != '(') {
+                    return false;
+                }
+                if (ch == ']' && top != '[') {
+                    return false;
+                }
+                if (ch == '}' && top != '{') {
                     return false;
                 }
             }
         }
-
         return stack.isEmpty();
     }
 }
