@@ -28,6 +28,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2769-find-the-maximum-achievable-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
