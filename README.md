@@ -14,6 +14,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -57,11 +58,13 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
