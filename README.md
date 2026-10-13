@@ -28,6 +28,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0001-two-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0001-two-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
