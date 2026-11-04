@@ -15,6 +15,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0020-valid-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1768-merge-strings-alternately) |
@@ -35,6 +36,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0007-reverse-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0007-reverse-integer) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3783-mirror-distance-of-an-integer) |
@@ -54,6 +56,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Counting
 |  |
 | ------- |
