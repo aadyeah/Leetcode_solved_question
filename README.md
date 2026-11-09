@@ -35,6 +35,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0007-reverse-integer) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -115,5 +116,10 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
