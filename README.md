@@ -74,6 +74,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0177-nth-highest-salary](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0196-delete-duplicate-emails) |
 | [1068-product-sales-analysis-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1693-daily-leads-and-partners) |
 ## Stack
