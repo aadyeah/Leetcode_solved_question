@@ -30,6 +30,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0001-two-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0066-plus-one) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -43,6 +44,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0066-plus-one](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3783-mirror-distance-of-an-integer) |
@@ -104,6 +106,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0005-longest-palindromic-substring) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
