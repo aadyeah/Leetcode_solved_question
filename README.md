@@ -7,6 +7,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0005-longest-palindromic-substring) |
+| [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3794-reverse-string-prefix) |
@@ -30,6 +31,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0001-two-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0066-plus-one) |
+| [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -114,6 +116,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
