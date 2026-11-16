@@ -33,6 +33,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0001-two-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0088-merge-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -61,6 +62,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0001-two-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -141,5 +143,6 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
