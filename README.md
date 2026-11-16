@@ -40,6 +40,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -77,6 +78,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0383-ransom-note) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
@@ -105,6 +107,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Greedy
 |  |
 | ------- |
