@@ -95,6 +95,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0197-rising-temperature](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1693-daily-leads-and-partners) |
+| [3475-dna-pattern-recognition](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3475-dna-pattern-recognition) |
 ## Stack
 |  |
 | ------- |
