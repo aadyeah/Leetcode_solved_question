@@ -45,6 +45,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -155,6 +157,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0002-add-two-numbers) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
