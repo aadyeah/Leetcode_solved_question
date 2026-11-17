@@ -12,6 +12,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [1768-merge-strings-alternately](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -129,6 +131,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
@@ -156,4 +159,8 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2396-strictly-palindromic-number) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
