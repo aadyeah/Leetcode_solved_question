@@ -93,6 +93,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0183-customers-who-never-order](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0511-game-play-analysis-i) |
 | [1068-product-sales-analysis-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1693-daily-leads-and-partners) |
