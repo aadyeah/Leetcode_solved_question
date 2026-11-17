@@ -38,6 +38,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0088-merge-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1470-shuffle-the-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
