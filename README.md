@@ -102,6 +102,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0262-trips-and-users](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0511-game-play-analysis-i) |
 | [1068-product-sales-analysis-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1068-product-sales-analysis-i) |
+| [1179-reformat-department-table](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1179-reformat-department-table) |
 | [1693-daily-leads-and-partners](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1890-the-latest-login-in-2020) |
