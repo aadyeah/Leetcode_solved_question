@@ -10,6 +10,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0088-merge-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1768-merge-strings-alternately) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -40,6 +41,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1470-shuffle-the-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -110,6 +112,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0020-valid-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1021-remove-outermost-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -173,5 +176,14 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Binary Search
 |  |
 | ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
