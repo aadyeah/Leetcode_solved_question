@@ -8,6 +8,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0088-merge-sorted-array) |
+| [0832-flipping-an-image](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1768-merge-strings-alternately) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -38,6 +39,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0066-plus-one](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
+| [0832-flipping-an-image](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1470-shuffle-the-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -67,6 +69,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0832-flipping-an-image) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Hash Table
@@ -85,6 +88,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0201-bitwise-and-of-numbers-range](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0832-flipping-an-image) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
