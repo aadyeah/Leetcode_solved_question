@@ -44,6 +44,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -67,6 +68,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
