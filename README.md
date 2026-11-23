@@ -44,6 +44,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [1470-shuffle-the-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1470-shuffle-the-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -62,6 +63,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2769-find-the-maximum-achievable-number) |
@@ -89,6 +91,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0832-flipping-an-image) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
@@ -194,4 +197,16 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
