@@ -53,6 +53,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [2960-count-tested-devices-after-test-operations](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aadyeah/Leetcode_solved_question/tree/master/2769-find-the-maximum-achievable-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
@@ -209,4 +211,13 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3411-maximum-subarray-with-equal-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
