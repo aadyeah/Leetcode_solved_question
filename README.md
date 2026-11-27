@@ -21,6 +21,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -60,6 +61,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -80,6 +82,7 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aadyeah/Leetcode_solved_question/tree/master/1832-check-if-the-sentence-is-pangram) |
