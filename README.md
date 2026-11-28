@@ -223,4 +223,20 @@ A collection of edge cases, time limits exceeded, and the eventual green checkma
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aadyeah/Leetcode_solved_question/tree/master/3411-maximum-subarray-with-equal-products) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aadyeah/Leetcode_solved_question/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
